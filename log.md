@@ -18,3 +18,10 @@
 **Link to work:** 
 1) [Portfolio Page Repository](https://github.com/kaus1995/PortfolioPage)
 2) [Python Introduction repository](https://github.com/kaus1995/IntroductionPythonHackerRank)
+
+### Day 3: May 13th, 2017
+
+**Today's Progress:** Learnt how to make a navigation bar only with css and html and learnt about a few of html tags and attributes
+
+**Link to work:**
+1) [Navigation Bar Repository](https://github.com/kaus1995/NavigationBar)
