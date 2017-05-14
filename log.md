@@ -25,3 +25,12 @@
 
 **Link to work:**
 1) [Navigation Bar Repository](https://github.com/kaus1995/NavigationBar)
+
+### Day 3: May 14th, 2017
+
+**Today's progress:** Learnt about basics of web and python data types
+
+**Thoughts:** Got to know about tomato timer website and it was very helpful and maybe only an hour topday but yeah I learnt enough
+
+**Link to work:**
+1) [Data Types HackerRank Repo](https://github.com/kaus1995/BasicDataTypes)
